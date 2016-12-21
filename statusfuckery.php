@@ -12,8 +12,8 @@ $hx = " Somebody Else's Problem / ";
 $ix = " Internet Crashed / ";
 
 $headers = array(
-  "01".$ox."Meh","02".$ox."Emacs","03".$ox."Explosion","04".$ox."Goto Fail","05".$ox."I wrote the code and missed the necessary validation by an oversight (see 795)","06".$ox."Delete Your Account",
-  "10".$ax."PHP","11".$ax."Convenience Store","12".$ax."NoSQL","18".$ax."Haskell","19".$ax."I am not a teapot",
+  "01".$ox."Meh","02".$ox."Emacs","03".$ox."Explosion","04".$ox."Goto Fail","05".$ox."I wrote the code and missed the necessary validation by an oversight (see 795)","06".$ox."Delete Your Account","07".$ox."Can't quit vi",
+  "10".$ax."PHP","11".$ax."Convenience Store","12".$ax."NoSQL","18".$ax."I am not a teapot","19".$ax."Haskell",
   "20".$bx."Unpossible","21".$bx."Known Unknowns","22".$bx."Unknown Unknowns","23".$bx."Tricky","24".$bx."This line should be unreachable","25".$bx."It works on my machine","26".$bx."It's a feature, not a bug","27".$bx."32 bits is plenty","28".$bx."Go Fish",
   "30".$cx."Fucking Bower","31".$cx."Fucking Rubygems","32".$cx."Fucking Unic💩de","33".$cx."Fucking Deadlocks","34".$cx."Fucking Deferreds","35".$cx."Fucking IE","36".$cx."Fucking Race Conditions","37".$cx."FuckThreading","38".$cx."Fucking Bundler","39".$cx."Fucking Windows",
   "40".$dx."Computer says no","41".$dx."Compiling","42".$dx."A kitten dies","43".$dx."I thought I knew regular expressions","44".$dx."Y U NO write integration tests?","45".$dx."I don't always test my code, but when I do I do it in production","46".$dx."Missed Ballmer Peak","47".$dx."Motherfucking Snakes on the Motherfucking Plane","48".$dx."Confounded by Ponies","49".$dx."Reserved for Chuck Norris",
