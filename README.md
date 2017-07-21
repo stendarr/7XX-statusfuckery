@@ -5,4 +5,4 @@ To use this, just php-include this file on every page of your website:
 
 ```<?php include "statusfuckery.php"?>```
 
-It will then choose one of the Status Codes randomly from an array.
+It will then choose one of the Status Codes randomly from an array and add it to the HTTP Header.
