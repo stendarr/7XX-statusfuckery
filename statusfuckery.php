@@ -21,7 +21,7 @@ $headers = array(
   "61".$fx."Hungover","62".$fx."Stoned","63".$fx."Under-Caffeinated","64".$fx."Over-Caffeinated","65".$fx."Railscamp","66".$fx."Sober","67".$fx."Drunk","68".$fx."Accidentally Took Sleeping Pills During Crunch Week","69".$fx."Questionable Maturity Level",
   "71".$gx."Cached for too long","72".$gx."Not cached long enough","73".$gx."Not cached at all","74".$gx."Why was this cached?","75".$gx."Out of cash","76".$gx."Error on the Exception","77".$gx."Coincidence","78".$gx."Off By One Error","79".$gx."Off By Too Many To Count Error",
   "80".$hx."Project owner not responding","81".$hx."Operations","82".$hx."QA","83".$hx."It was a customer request, honestly","84".$hx."Management, obviously", "85".$hx."TPS Cover Sheet not attached","86".$hx."Try it now","87".$hx."Further Funding Required","88".$hx."Designer's final designs weren't","89".$hx."Not my department",
-  "91".$ix."The Internet shut down due to copyright restrictions","92".$ix."Climate change driven catastrophic weather event","93".$ix."Zombie Apocalypse","94".$ix."Someone let PG near a REPL","95".$ix."#heartbleed (see 705)","97".$ix."This is the last page of the Internet. Go back","98".$ix."i checked the db backups cupboard and the cupboard was bare","99".$ix."End of the world"
+  "91".$ix."The Internet shut down due to copyright restrictions","92".$ix."Climate change driven catastrophic weather event","93".$ix."Zombie Apocalypse","94".$ix."Someone let PG near a REPL","95".$ix."#heartbleed (see 705)","96".$ix."Some DNS fuckery idno","97".$ix."This is the last page of the Internet. Go back","98".$ix."i checked the db backups cupboard and the cupboard was bare","99".$ix."End of the world"
 );
 
 $randomheader = $headers[array_rand($headers)];
