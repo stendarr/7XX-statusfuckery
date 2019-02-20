@@ -8,6 +8,6 @@ To use this, just php-include this file on every page of your website:
 It will then choose one of the Status Codes randomly from an array and add it to the HTTP Header.
 
 <br><br>
-Most browsers will still render the page regardless of the status code but some will think you've sent an empty response or will just be too confused.
+Most browsers will still render the page regardless of the status code but some will think you've sent an empty response or will just be too confused. Chrome mobile for example doesn't seem to like non-standard status codes.
 
 It's also a really great way to [confuse scrapers](https://www.youtube.com/watch?v=I3pNLB3Cq24).
