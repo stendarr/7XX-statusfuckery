@@ -6,3 +6,8 @@ To use this, just php-include this file on every page of your website:
 ```<?php include "statusfuckery.php"?>```
 
 It will then choose one of the Status Codes randomly from an array and add it to the HTTP Header.
+
+
+
+
+Most browsers will still render the page regardless of the status code but some will think you've sent an empty response or will just be too confused.
